@@ -91,7 +91,7 @@ Ball *ball = [[[[Ball alloc] init] autorelease] autorelease];
 ## Functional Programming
 - 함수형 프로그래밍이 무엇인지 설명하시오.
 - 고차 함수가 무엇인지 설명하시오.
-- Swift Standard Library의 map, filter, reduce, compactMap, flatMap에 대하여 설명하시오.
+- [Swift Standard Library의 map, filter, reduce, compactMap, flatMap에 대하여 설명하시오.](https://medium.com/swlh/swift-grokking-map-flatmap-and-compactmap-a675f9c2e4ff)
 
 # Optional
 아래부터는 추가로 공부를 하면 좋을 내용들입니다.
